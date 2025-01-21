@@ -71,4 +71,4 @@ As an IT Support Specialist, my experience with technology and problem-solving s
 
 ## Projects
 - <a href="https://github.com/devharper21/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/devharper21/SOC-Automation/tree/main"> SOC Automation Lab</a> |
+- <a href="https://github.com/devharper21/SOC-Automation/tree/main"> SOC Automation Lab</a>
