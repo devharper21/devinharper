@@ -11,8 +11,6 @@ As an IT Support Specialist, my experience with technology and problem-solving s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/devharper21/Detection-Lab/tree/main"> Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/devharper21/Detection-Lab/tree/main"> Detection Lab</a> |
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/devharper21/SOC-Automation/tree/main"> SOC Automation Lab</a> |
 | Incident Response Planning and Execution      | <a href="https://github.com/devharper21/SOC-Automation/tree/main"> SOC Automation Lab</a> |
 | Case Management with TheHive                  | <a href="https://github.com/devharper21/SOC-Automation/tree/main"> SOC Automation Lab</a> |
@@ -70,5 +68,4 @@ As an IT Support Specialist, my experience with technology and problem-solving s
 </div>
 
 ## Projects
-- <a href="https://github.com/devharper21/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/devharper21/SOC-Automation/tree/main"> SOC Automation Lab</a>
